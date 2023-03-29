@@ -2,9 +2,9 @@
   "name": "sit323_737-2023-t1-prac4.1p",
   "version": "1.0.0",
   "description": "",
-  "main": "week03-code.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node week03-code.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
